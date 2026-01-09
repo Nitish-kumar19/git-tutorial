@@ -2,4 +2,5 @@ db.sql
 password.txt
 *.log
 gitmodules/
-!important.log
+!important.logpass.txt
+pass.txt
