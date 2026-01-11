@@ -1,3 +1,1 @@
-#THIS IS A PYTHON FILES
-import os
-import sys
+print("hello world")
